@@ -47,8 +47,9 @@ header nav ul li a:hover {
 
 
 .banner {
-    background: url('https://via.placeholder.com/1600x600') no-repeat center center/cover;
-    color: white;
+   
+    background: #e8c6a7;
+    color: #000000;
     text-align: center;
     padding: 100px 20px;
 }
